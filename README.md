@@ -1,4 +1,4 @@
-# APP_Estude-Mais_MIT_APP_Inventor
+# APP Estude Mais
 
 ## Sobre o aplicativo
 
@@ -22,3 +22,18 @@ Para ter acesso ao projeto:
 - Vá para "Create Apps!"
 - no menu superior, selecione "Projects" > Import projects (.aia) from my computer
 
+## Telas:
+
+
+
+<img src="C:\Users\crist\AppData\Roaming\Typora\typora-user-images\image-20210604230701523.png" alt="image-20210604230701523" style="zoom: 50%;" />
+
+![image-20210604231354355](C:\Users\crist\AppData\Roaming\Typora\typora-user-images\image-20210604231354355.png)
+
+
+
+![image-20210604231059412](C:\Users\crist\AppData\Roaming\Typora\typora-user-images\image-20210604231059412.png)
+
+
+
+![image-20210604231256785](C:\Users\crist\AppData\Roaming\Typora\typora-user-images\image-20210604231256785.png)
