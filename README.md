@@ -24,16 +24,10 @@ Para ter acesso ao projeto:
 
 ## Telas:
 
+![1_Abertura](https://user-images.githubusercontent.com/64370426/127408278-2788599c-1824-4234-bfaa-412f41aa0430.jpeg) ![Pomodoro](https://user-images.githubusercontent.com/64370426/127408440-22b25558-175d-4ec1-bc0f-2652812597fd.jpeg) ![Interevalo](https://user-images.githubusercontent.com/64370426/127408574-8c0e8212-63cb-44ef-b4b0-810e17eeffbb.jpeg)
 
-
-<img src="C:\Users\crist\AppData\Roaming\Typora\typora-user-images\image-20210604230701523.png" alt="image-20210604230701523" style="zoom: 50%;" />
-
-![image-20210604231354355](C:\Users\crist\AppData\Roaming\Typora\typora-user-images\image-20210604231354355.png)
-
-
-
-![image-20210604231059412](C:\Users\crist\AppData\Roaming\Typora\typora-user-images\image-20210604231059412.png)
+![Cadastro](https://user-images.githubusercontent.com/64370426/127408582-3162ce5f-48d0-48e3-95b7-cc600d76fc15.jpeg) ![Relaorio](https://user-images.githubusercontent.com/64370426/127408623-886c8dcb-3cf9-4a00-8bf9-1edc6f327c2e.jpeg)
 
 
 
-![image-20210604231256785](C:\Users\crist\AppData\Roaming\Typora\typora-user-images\image-20210604231256785.png)
+
